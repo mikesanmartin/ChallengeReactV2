@@ -1,0 +1,7 @@
+Pendientes:
+- Redirección Login
+- Protección Rutas con autenticación por medio del Token en LOCALSTORAGE
+- Funcionalidad a boton "detalles" 
+- Parametros al Store, 2 comidas veganas 2 comidas no veganas, filtro
+- Sumatoria de Stats de alimentos
+- CSS para componente HOME (lista se ve mal en mobile)

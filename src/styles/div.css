@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    padding: 5%;
+}
+
+.content button{
+    margin: 2%;
+}
+
+.content input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.foodComponent{
+    margin: 1%;
+}
